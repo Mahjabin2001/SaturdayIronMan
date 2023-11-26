@@ -36,6 +36,7 @@ public class Singleton {
 	
 	//git change using eclipse
 	
+	
 	protected static void demo4() {
 		System.out.println("Demo IV method for Singleton class");
 	}
