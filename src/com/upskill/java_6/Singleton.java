@@ -31,8 +31,10 @@ public class Singleton {
 	protected static void demo3() {
 		System.out.println("Demo III method for Singleton class");
 	}
-
+//git change
 	//changes for pull req pratice
+	
+	//git change using eclipse
 	
 	protected static void demo4() {
 		System.out.println("Demo IV method for Singleton class");
